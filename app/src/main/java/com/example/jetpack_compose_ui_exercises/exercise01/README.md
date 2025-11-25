@@ -1,6 +1,6 @@
 🎨 UI do odtworzenia
 
-![Mobile App Login Screen Design](1.png)
+<img src="1.png" alt="Mobile App Login Screen Design" width="200">
 
 🎯 Cel
 
