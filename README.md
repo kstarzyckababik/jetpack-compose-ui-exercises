@@ -17,11 +17,11 @@ Zbiór praktycznych zadań do nauki <b>Jetpack Compose UI</b>.
 <h3>🧩 Każde zadanie zawiera:</h3>
 
 <ul>
-  <li>✔ Screenshot UI do odtworzenia</li>
-  <li>✔ Komponenty, które warto wykorzystać</li>
-  <li>✔ Wskazówki i bonusowe wyzwania</li>
-  <li>✔ Przykładową strukturę ekranu</li>
-  <li>✔ Gotowy plik Composable</li>
+  <li>Screenshot UI do odtworzenia</li>
+  <li>Komponenty, które warto wykorzystać</li>
+  <li>Wskazówki i bonusowe wyzwania</li>
+  <li>Przykładową strukturę ekranu</li>
+  <li>Gotowy plik Composable</li>
 </ul>
 
 <h3>🎯 Cel projektu</h3>
@@ -31,7 +31,7 @@ Pomóc początkującym Android developerom wytrenować praktyczne umiejętności
 </p>
 
 
-<h3>Uruchom aplikację</h3>
+<h3>🚀 Uruchom aplikację</h3>
 
 Zobaczysz listę ćwiczeń (Exercise 01, 02, 03…).
 
