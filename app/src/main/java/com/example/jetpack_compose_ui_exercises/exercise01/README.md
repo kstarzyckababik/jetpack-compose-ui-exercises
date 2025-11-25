@@ -2,13 +2,19 @@
 
 <img src="1.png" alt="Mobile App Login Screen Design" width="200">
 
+
+
 🎯 Cel
 
 Zbudować prosty ekran logowania korzystając z podstawowych komponentów Compose.
 
+
+
 🧩 Komponenty, które warto użyć
 
 Column, Spacer, Box, Icon, Text, OutlinedTextField, Button, TextButton, Modifier.padding, Modifier.fillMaxWidth
+
+
 
 💡 Wskazówki
 
@@ -20,6 +26,8 @@ Przycisk LOGIN powinien być szeroki (również fillMaxWidth).
 
 Utrzymaj odstępy (wielokrotności 8dp)między elementami.
 
+
+
 ⭐ Bonus
 
 Dodaj walidację: email musi mieć “@”.
@@ -27,3 +35,9 @@ Dodaj walidację: email musi mieć “@”.
 Dodaj ikonki w polach inputów.
 
 Dodaj animację przy błędzie (np. shake).
+
+
+
+👉 Moje rozwiązanie
+
+<img src="1my.png" alt="Mobile App Login Screen Design" width="200">
