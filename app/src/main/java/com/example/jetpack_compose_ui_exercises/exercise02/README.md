@@ -10,7 +10,7 @@ Stworzyć ekran przedstawiający listę elementów (kart), każdy z obrazkiem, t
 
 💡 Warto użyć
 
-Column, Box, LazyColumn, Card, Row,  Box, Spacer, Text 
+Column, Box, LazyColumn, Card, Row, Spacer, Text 
 
 👉 Moje rozwiązanie 
 

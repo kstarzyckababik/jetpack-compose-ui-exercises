@@ -11,6 +11,7 @@ import androidx.navigation.compose.*
 import androidx.navigation.compose.rememberNavController
 import com.example.jetpack_compose_ui_exercises.exercise01.Exercise01LoginScreen
 import com.example.jetpack_compose_ui_exercises.exercise02.Exercise02ListScreen
+import com.example.jetpack_compose_ui_exercises.exercise03.Exercise03BankHomeScreen
 
 
 @Composable
@@ -34,6 +35,11 @@ fun AppNavHost() {
         composable(Destination.Exercise02.route) {
             Exercise02ListScreen()
         }
+
+        composable(Destination.Exercise03.route) {
+            Exercise03BankHomeScreen()
+
+        }
     }
 }
 
@@ -41,7 +47,8 @@ fun AppNavHost() {
 fun HomeScreen(onExerciseClick: (String) -> Unit) {
     val items = listOf(
         Destination.Exercise01,
-        Destination.Exercise02
+        Destination.Exercise02,
+        Destination.Exercise03
         // kolejne zadania
     )
 
